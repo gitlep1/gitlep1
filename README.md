@@ -16,8 +16,6 @@ To further improve my skills, I’ve learned and studied basic C and basic syste
 
 - I'm currently working on [Anime Streaming](https://gitlep1.github.io/Anime-stream-client/#/)
 
-- 🌱 I’m currently enrolled in **Pursuit**
-
 - 👨‍💻 All of my projects are available at [https://gitlep1.github.io/](https://gitlep1.github.io/)
 
 - 📫 How to reach me **antonioshivers2500@gmail.com,**
