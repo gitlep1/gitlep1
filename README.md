@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Antonio Shivers</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitlep1&label=Profile%20views&color=0e75b6&style=flat" alt="gitlep1" /> </p> <h1 align="center">Hello 👋, I'm Antonio Shivers</h1>
 
 <h3 align="center">A passionate fullstack software engineer.</h3>
 
@@ -9,8 +9,6 @@ My love for technology stems from analyzing my first PC as a teenager. My passio
 
 To further improve my skills, I’ve learned and studied basic C and basic systems administration, with some introductions to C#, and software design at several programs including General Assembly. After completing the pursuit Fellowship, I will on the road to becoming a video game developer.
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitlep1&label=Profile%20views&color=0e75b6&style=flat" alt="gitlep1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitlep1" alt="gitlep1" /></a> </p>
 
