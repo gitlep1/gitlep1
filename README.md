@@ -18,7 +18,7 @@ To further improve my skills, I’ve learned and studied basic C and basic syste
 
 <!-- - 📫 You can reach me by emailing me at: **antonioshivers2500@gmail.com** -->
 
-- 📄 My experiences are on my [Resume](https://docs.google.com/document/d/1xyV9DGhWx3AIdwD4lVGlOsx18w132Txk/edit?usp=sharing&ouid=102082662917479080118&rtpof=true&sd=true)
+<!-- - 📄 My experiences are on my [Resume](https://docs.google.com/document/d/1xyV9DGhWx3AIdwD4lVGlOsx18w132Txk/edit?usp=sharing&ouid=102082662917479080118&rtpof=true&sd=true) -->
 
 - ⚡ Fun fact **I have played video games everyday since I was 5 years old.**
 
