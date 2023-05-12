@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitlep1&label=Profile%20views&color=0e75b6&style=flat" alt="gitlep1" /> </p> <h1 align="center">Hello 👋, I'm Antonio Shivers</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitlep1&label=Profile%20views&color=0e75b6&style=flat" alt="gitlep1" /> </p> <h1 align="center">Hello 👋, I'm Antonio</h1>
 
 <h3 align="center">A passionate fullstack software engineer.</h3>
 
