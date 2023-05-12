@@ -14,7 +14,7 @@ To further improve my skills, I’ve learned and studied basic C and basic syste
 
 - I'm currently working on [World Wide Chess](https://world-wide-chess.netlify.app)
 
-- 👨‍💻 All of my projects are available on my [portfolio](https://gitlep1.github.io/)
+<!-- - 👨‍💻 All of my projects are available on my [portfolio](https://gitlep1.github.io/) -->
 
 - 📫 You can reach me by emailing me at: **antonioshivers2500@gmail.com**
 
