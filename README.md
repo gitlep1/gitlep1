@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitlep1&label=Profile%20views&color=0e75b6&style=flat" alt="gitlep1" /> </p> <h1 align="center">Hello 👋</h1>
 
-<h3 align="center">A passionate fullstack software engineer.</h3>
+<h3 align="center">I'm a passionate fullstack software engineer.</h3>
 
 <p> 
 I have completed my Pursuit Fellowship training to become a software engineer. Pursuit is a 12-month, Google-funded software engineering fellowship with a 9% acceptance rate whose graduates have been hired as developers at leading companies.
