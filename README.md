@@ -3,16 +3,15 @@
 <h3 align="center">I'm a passionate fullstack software engineer.</h3>
 
 <p> 
-I have completed my Pursuit Fellowship training to become a software engineer. Pursuit is a 12-month, Google-funded software engineering fellowship with a 9% acceptance rate whose graduates have been hired as developers at leading companies.
-
 My love for technology stems from analyzing my first PC as a teenager. My passion has since grown tremendously and led me to through several programs and careers including completing an IT Fundamentals Certification and Windows OS program at Job Corp.
 
-To further improve my skills, I’ve learned and studied basic C and basic systems administration, with some introductions to C#, and software design at several programs including Tech and Media, General Assembly and Pursuit. After completing the pursuit Fellowship, I will be on the road to becoming a video game developer.
+To further improve my skills, I’ve learned and studied Information Technology, basic C, systems administration, and software engineering at several programs including Job Corps, Tech and Media, General Assembly and Pursuit. After completing the pursuit Fellowship, I am on the road to becoming a professional Software Engineer as well as learning the tools to become a video game engineer.
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitlep1" alt="gitlep1" /></a> </p>
 
-- I'm currently working on [World Wide Chess](https://world-wide-chess.netlify.app)
+- I'm currently working on [Habbitly](https://habbitly.vercel.app) A habbit and goal tracking app.
+- I'm currently learning C# utilizing [learn.microsoft](https://learn.microsoft.com/en-us/training/paths/get-started-c-sharp-part-1)
 
 <!-- - 👨‍💻 All of my projects are available on my [portfolio](https://gitlep1.github.io/) -->
 
@@ -20,7 +19,7 @@ To further improve my skills, I’ve learned and studied basic C and basic syste
 
 <!-- - 📄 My experiences are on my [Resume](https://docs.google.com/document/d/1xyV9DGhWx3AIdwD4lVGlOsx18w132Txk/edit?usp=sharing&ouid=102082662917479080118&rtpof=true&sd=true) -->
 
-- ⚡ Fun fact **I have played video games everyday since I was 5 years old.**
+- ⚡ Fun fact **I have played video games everyday since I was 4 years old.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
